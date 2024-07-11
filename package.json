@@ -1,16 +1,25 @@
 {
   "name": "@electron/safe-storage",
   "version": "0.0.1",
-  "description": "package for separate use of electron safe storage module",
-  "main": "./dist/index.js",
-  "author": "sandip prajapati",
-  "license": "MIT",
-  "repository": "github.com:kr-sandipprajapati/-electron-safe-storage.git",
-  "publishConfig": {
-    "registry": "https://github.com/kr-sandipprajapati/-electron-safe-storage"
+  "description": "safe storage fuctionality use",
+  "main": "/dist/index.js",
+  "directories": {
+    "bin": "https://github.com/kr-sandipprajapati/electron-safe-storagehttps://github.com/kr-sandipprajapati/electron-safe-storage"
   },
+  "scripts": {
+    "compile": "tsc"
+  },
+  "engines": {
+    "node": "16"
+  },
+  "repository": "github:kr-sandipprajapati/electron-safe-storage",
+  "publishConfig": {
+    "registry": "https://github.com/kr-sandipprajapati/electron-safe-storage"
+  },
+  "author": "Sandip Prajapati",
+  "license": "ISC",
   "devDependencies": {
-    "electron": "^31.2.0",
+    "electron": "30.0.9",
     "typescript": "^5.5.3"
   }
 }
