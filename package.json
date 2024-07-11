@@ -1,7 +1,7 @@
 {
-  "name": "@electron/safe-storage",
-  "version": "0.0.1",
-  "description": "safe storage fuctionality use",
+  "name": "electron-safe-storage",
+  "version": "0.0.2",
+  "description": "use latest electron safe storage functionality without updating newest version",
   "main": "/dist/index.js",
   "directories": {
     "bin": "https://github.com/kr-sandipprajapati/electron-safe-storagehttps://github.com/kr-sandipprajapati/electron-safe-storage"
@@ -13,9 +13,6 @@
     "node": "16"
   },
   "repository": "github:kr-sandipprajapati/electron-safe-storage",
-  "publishConfig": {
-    "registry": "https://github.com/kr-sandipprajapati/electron-safe-storage"
-  },
   "author": "Sandip Prajapati",
   "license": "ISC",
   "devDependencies": {
