@@ -1,6 +1,6 @@
 {
   "name": "electron-safe-storage",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "use latest electron safe storage functionality without updating newest version",
   "main": "/dist/index.js",
   "directories": {
