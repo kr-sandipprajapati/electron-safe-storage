@@ -1,8 +1,8 @@
 {
   "name": "electron-safe-storage",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "use latest electron safe storage functionality without updating newest version",
-  "main": "/dist/index.js",
+  "main": "./dist/index.js",
   "directories": {
     "bin": "https://github.com/kr-sandipprajapati/electron-safe-storagehttps://github.com/kr-sandipprajapati/electron-safe-storage"
   },
